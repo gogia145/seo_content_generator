@@ -1,0 +1,15 @@
+.error
+{
+	padding-left:10px;
+	color:red;
+}
+.left-form
+{
+	float:left;
+	padding-right:10px;
+}
+.right-panel
+{
+	float:left;
+	padding-left:10px;
+}
